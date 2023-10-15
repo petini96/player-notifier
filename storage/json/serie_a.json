@@ -1,0 +1,413 @@
+[
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Alemão",
+        "number": "+55 67 99195-7171",
+        "nick": "Alemão",
+        "serie": "AB",
+        "presence_level": 9,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Alencar",
+        "number": "+55 67 99146-1771",
+        "nick": "Alencar",
+        "serie": "AB",
+        "presence_level": 6,
+        "position": [
+            "goalkeeper"
+        ],
+        "is_older": true
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Ariel",
+        "number": "+55 67 99253-7617",
+        "nick": "Ariel",
+        "serie": "A",
+        "presence_level": 7,
+        "position": [
+            "line-player"
+        ],
+        "is_older": true
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Bruno",
+        "number": "+55 67 99294-2868",
+        "nick": "Brunão",
+        "serie": "A",
+        "presence_level": 7,
+        "position": [
+            "goalkeeper"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Denis",
+        "number": "+55 67 99265-4704",
+        "nick": "D10",
+        "serie": "AB",
+        "presence_level": 9,
+        "position": [
+            "line-player"
+        ],
+        "is_older": true
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Edgar",
+        "number": "+55 67 99262-7151",
+        "nick": "Edmara",
+        "serie": "A",
+        "presence_level": 10,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Evanderson Carvalho",
+        "number": "+55 67 99308-9168",
+        "nick": "Tininho",
+        "serie": "AB",
+        "presence_level": 7,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Fabiano Silveira",
+        "number": "+55 67 99225-1873",
+        "nick": "(Frango)",
+        "serie": "A",
+        "presence_level": 8,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Felipe",
+        "number": "+55 67 99653-2268",
+        "nick": "Mini Carter",
+        "serie": "A",
+        "presence_level": 7,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Gabriel Medina",
+        "number": "+55 67 99134-@7558",
+        "nick": "Medina",
+        "serie": "A",
+        "presence_level": 7,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Gleison",
+        "number": "+55 67 99203-4049",
+        "nick": "Gerente 4.4",
+        "serie": "AB",
+        "presence_level": 9,
+        "position": [
+            "line-player"
+        ],
+        "is_older": true
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Hilário",
+        "number": "+55 67 99997-4800",
+        "nick": "Hilário",
+        "serie": "A",
+        "presence_level": 6,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Ian Alves",
+        "number": "+55 67 99894-5872",
+        "nick": "Dedão",
+        "serie": "A",
+        "presence_level": 6,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Jean Aroud",
+        "number": "+55 67 99196-5954",
+        "nick": "Maraguinha",
+        "serie": "AB",
+        "presence_level": 9,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Gian",
+        "number": "+55 67 99325-4360",
+        "nick": "Gian Goleiro",
+        "serie": "A",
+        "presence_level": 8,
+        "position": [
+            "goalkeeper"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Jefferson",
+        "number": "+55 67 99196-7311",
+        "nick": "Toca Facil",
+        "serie": "A",
+        "presence_level": 10,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Jonathan Farias",
+        "number": "+55 67 99893-5751",
+        "nick": "Mariano",
+        "serie": "AB",
+        "presence_level": 4,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Kenio",
+        "number": "+55 67 99118-2687",
+        "nick": "Kenio",
+        "serie": "A",
+        "presence_level": 8,
+        "position": [
+            "goalkeeper",
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Leandro",
+        "number": "+55 67 99850-5367",
+        "nick": "Leo DJ",
+        "serie": "A",
+        "presence_level": 8,
+        "position": [
+            "line-player",
+            "goalkeeper"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Marcelo",
+        "number": "+55 67 99293-4569",
+        "nick": "Marcelão",
+        "serie": "A",
+        "presence_level": 8,
+        "position": [
+            "line-player"
+        ],
+        "is_older": true
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Matheus Macco",
+        "number": "+55 67 99930-9030",
+        "nick": "Macco",
+        "serie": "A",
+        "presence_level": 7,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Othavyo Amaral Franco",
+        "number": "+55 67 99168-3647",
+        "nick": "Amaral",
+        "serie": "A",
+        "presence_level": 3,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Brandow",
+        "number": "+55 67 99230-0073",
+        "nick": "Brandow",
+        "serie": "A",
+        "presence_level": 3,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Luís",
+        "number": "+55 67 99952-4269",
+        "nick": "Luís",
+        "serie": "A",
+        "presence_level": 7,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Rubens",
+        "number": "+55 67 98449-2526",
+        "nick": "Rubinho",
+        "serie": "A",
+        "presence_level": 10,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Thiago China",
+        "number": "+55 67 99252-1225",
+        "nick": "Dybraiano",
+        "serie": "A",
+        "presence_level": 8,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Tiago",
+        "number": "+55 67 99204-0976",
+        "nick": "Tiagão",
+        "serie": "AB",
+        "presence_level": 9,
+        "position": [
+            "line-player"
+        ],
+        "is_older": true
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Vinícius",
+        "number": "+55 67 98408-7417",
+        "nick": "Mestre salvador",
+        "serie": "A",
+        "presence_level": 9,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Vinícius",
+        "number": "+55 67 99623-9405",
+        "nick": "Vini",
+        "serie": "A",
+        "presence_level": 6,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "~~",
+        "number": "+55 67 99908-4748",
+        "nick": "",
+        "serie": "A",
+        "presence_level": 4,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Cleyton Silva",
+        "number": "+55 67 99345-0900",
+        "nick": "Cleyton",
+        "serie": "A",
+        "presence_level": 4,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Wesley de Souza",
+        "number": "+55 67 99217-9254",
+        "nick": "Bahiano",
+        "serie": "A",
+        "presence_level": 8,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "name": "Lucas Nunes",
+        "number": "+55 67 99154-5732",
+        "nick": "Lucas Anão",
+        "serie": "A",
+        "presence_level": 2,
+        "position": [
+            "line-player"
+        ],
+        "is_older": false
+    },
+    {
+        "id": "fas145zfa18fas4fas",
+        "nome": "Carter",
+        "number": "+55 67 9230-8258",
+        "nick": "Carter",
+        "serie": "A",
+        "presence_level": 8,
+        "position": [
+            "line-player",
+            "goalkeeper"
+        ],
+        "is_older": false
+    }
+]
